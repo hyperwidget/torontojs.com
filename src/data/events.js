@@ -30,6 +30,9 @@ export default {
   torontojs: makeGoogleCalendarURL(
     `k6l8oiu416ftcjpjetn0r7a79me8pq4r@import.calendar.google.com`
   ),
+  vue: makeGoogleCalendarURL(
+    `32clmdbdnjukvbigjs6k174m44hhc7lu@import.calendar.google.com`
+  ),
   webgl: makeGoogleCalendarURL(
     `1sdm6dini4ii2rvgqcmincg48h34v82l@import.calendar.google.com`
   ),
